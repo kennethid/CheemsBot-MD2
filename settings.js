@@ -21,11 +21,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['19106065875']
-global.premium = ['19106065875']
-global.ownernomer = '19106065875'
-global.ownername = 'Kenneth Morris'
-global.botname = 'Kenneth ID'
+global.owner = ['62881036775254']
+global.premium = ['62881036775254']
+global.ownernomer = '62881036775254'
+global.ownername = 'lestky'
+global.botname = 'lestky'
 global.footer = 'Kenneth ID'
 global.ig = 'https://github.com/kennethid'
 global.region = 'India, NorthEast, Mizoram'
